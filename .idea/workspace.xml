@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a55247a7-0b09-4ebb-aa67-cd171f723b70" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="a55247a7-0b09-4ebb-aa67-cd171f723b70" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,11 +10,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/4900samples$p9_4_fuel.coverage" NAME="p9-4_fuel Coverage Results" MODIFIED="1509546280358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Dropbox/4900 Classes/4900 Fall 2017/Resources/murach/murach_python_programming_ig/python/Instructors/Projects/project_solutions/ch09" />
+    <SUITE FILE_PATH="coverage/4900samples$format1.coverage" NAME="format1 Coverage Results" MODIFIED="1508954917834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6 handling numbers" />
+    <SUITE FILE_PATH="coverage/4900samples$future_value.coverage" NAME="future_value Coverage Results" MODIFIED="1510759160483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1 initial samples" />
+    <SUITE FILE_PATH="coverage/4900samples$fuel.coverage" NAME="fuel Coverage Results" MODIFIED="1509567512029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6 handling numbers" />
+    <SUITE FILE_PATH="coverage/4900samples$loan_interest.coverage" NAME="loan_interest Coverage Results" MODIFIED="1509567797894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6 handling numbers" />
+    <SUITE FILE_PATH="coverage/4900samples$invoice_decimal__2_.coverage" NAME="invoice_decimal (2) Coverage Results" MODIFIED="1509547524697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Dropbox/4900 Classes/4900 Fall 2017/Week 12/numbers samples" />
+    <SUITE FILE_PATH="coverage/4900samples$book_catalog.coverage" NAME="book_catalog Coverage Results" MODIFIED="1507151540417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3 dictionaries" />
+    <SUITE FILE_PATH="coverage/4900samples$dice_roller__1_.coverage" NAME="dice_roller (1) Coverage Results" MODIFIED="1510760958395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Dropbox/4900 Classes/4900 Fall 2017/Week 13/object oriented examples/dice_roller_encap1" />
     <SUITE FILE_PATH="coverage/4900samples$numbers.coverage" NAME="numbers Coverage Results" MODIFIED="1508954771263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6 handling numbers" />
     <SUITE FILE_PATH="coverage/4900samples$product_viewer.coverage" NAME="product_viewer Coverage Results" MODIFIED="1510716823227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Dropbox/4900 Classes/4900 Fall 2017/Week 13/object oriented examples/product_viewer" />
     <SUITE FILE_PATH="coverage/4900samples$number_file.coverage" NAME="number_file Coverage Results" MODIFIED="1509567968902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6 handling numbers" />
-    <SUITE FILE_PATH="coverage/4900samples$p9_4_fuel.coverage" NAME="p9-4_fuel Coverage Results" MODIFIED="1509546280358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Dropbox/4900 Classes/4900 Fall 2017/Resources/murach/murach_python_programming_ig/python/Instructors/Projects/project_solutions/ch09" />
-    <SUITE FILE_PATH="coverage/4900samples$format1.coverage" NAME="format1 Coverage Results" MODIFIED="1508954917834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6 handling numbers" />
+    <SUITE FILE_PATH="coverage/4900samples$p14_1_rectangles.coverage" NAME="p14-1_rectangles Coverage Results" MODIFIED="1510772821370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Dropbox/4900 Classes/4900 Fall 2017/Week 13/object oriented examples/zteacher" />
+    <SUITE FILE_PATH="coverage/4900samples$p14_3_customers.coverage" NAME="p14-3_customers Coverage Results" MODIFIED="1510773274761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Dropbox/4900 Classes/4900 Fall 2017/Week 13/object oriented examples/zteacher" />
     <SUITE FILE_PATH="coverage/4900samples$numbers_test.coverage" NAME="numbers test Coverage Results" MODIFIED="1508792923854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6 handling numbers" />
     <SUITE FILE_PATH="coverage/4900samples$p9_1_loan_interest__1_.coverage" NAME="p9-1_loan_interest (1) Coverage Results" MODIFIED="1509547312441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6 handling numbers" />
     <SUITE FILE_PATH="coverage/4900samples$p9_3_sales_report.coverage" NAME="p9-3_sales_report Coverage Results" MODIFIED="1509546393022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Dropbox/4900 Classes/4900 Fall 2017/Resources/murach/murach_python_programming_ig/python/Instructors/Projects/project_solutions/ch09" />
@@ -24,29 +30,50 @@
     <SUITE FILE_PATH="coverage/4900samples$p9_1_loan_interest.coverage" NAME="p9-1_loan_interest Coverage Results" MODIFIED="1509546995827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Dropbox/4900 Classes/4900 Fall 2017/Resources/murach/murach_python_programming_ig/python/Instructors/Projects/project_solutions/ch09" />
     <SUITE FILE_PATH="coverage/4900samples$p9_2_monthly_payment__1_.coverage" NAME="p9-2_monthly_payment (1) Coverage Results" MODIFIED="1509547402006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6 handling numbers" />
     <SUITE FILE_PATH="coverage/4900samples$invoice.coverage" NAME="invoice Coverage Results" MODIFIED="1509546091098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6 handling numbers" />
-    <SUITE FILE_PATH="coverage/4900samples$fuel.coverage" NAME="fuel Coverage Results" MODIFIED="1509567512029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6 handling numbers" />
     <SUITE FILE_PATH="coverage/4900samples$p9_2_monthly_payment.coverage" NAME="p9-2_monthly_payment Coverage Results" MODIFIED="1509546891899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Dropbox/4900 Classes/4900 Fall 2017/Resources/murach/murach_python_programming_ig/python/Instructors/Projects/project_solutions/ch09" />
-    <SUITE FILE_PATH="coverage/4900samples$loan_interest.coverage" NAME="loan_interest Coverage Results" MODIFIED="1509567797894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6 handling numbers" />
     <SUITE FILE_PATH="coverage/4900samples$invoice_decimal__1_.coverage" NAME="invoice_decimal (1) Coverage Results" MODIFIED="1509547271622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6 handling numbers" />
     <SUITE FILE_PATH="coverage/4900samples$sales_report.coverage" NAME="sales_report Coverage Results" MODIFIED="1509567988342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6 handling numbers" />
-    <SUITE FILE_PATH="coverage/4900samples$invoice_decimal__2_.coverage" NAME="invoice_decimal (2) Coverage Results" MODIFIED="1509547524697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Dropbox/4900 Classes/4900 Fall 2017/Week 12/numbers samples" />
-    <SUITE FILE_PATH="coverage/4900samples$book_catalog.coverage" NAME="book_catalog Coverage Results" MODIFIED="1507151540417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3 dictionaries" />
+    <SUITE FILE_PATH="coverage/4900samples$dice_roller.coverage" NAME="dice_roller Coverage Results" MODIFIED="1510783946319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Dropbox/4900 Classes/4900 Fall 2017/Week 13/object oriented examples/dice_roller" />
     <SUITE FILE_PATH="coverage/4900samples$invoice_decimal.coverage" NAME="invoice_decimal Coverage Results" MODIFIED="1509567698891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6 handling numbers" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="objects.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/8 object oriented dev/product_viewer/objects.py">
+      <file leaf-file-name="dice.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Dropbox/4900 Classes/4900 Fall 2017/Week 13/object oriented examples/dice_roller/dice.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="52" lean-forward="true" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="p11-1_birth_date.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7 handling dates times/p11-1_birth_date.py">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://C:/python/efsblog/portfolio/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+        <entry file="file://C:/python/efsblog/portfolio/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="168" column="0" lean-forward="true" selection-start-line="168" selection-start-column="0" selection-end-line="168" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dice_roller.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Dropbox/4900 Classes/4900 Fall 2017/Week 13/object oriented examples/dice_roller/dice_roller.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -87,9 +114,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="345" />
-    <option name="y" value="45" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="189" />
     <option name="width" value="1098" />
     <option name="height" value="687" />
   </component>
@@ -119,12 +145,23 @@
             <path>
               <item name="4900samples" type="b2602c69:ProjectViewProjectNode" />
               <item name="4900samples" type="462c0819:PsiDirectoryNode" />
+              <item name="1 initial samples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="4900samples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4900samples" type="462c0819:PsiDirectoryNode" />
               <item name="7 handling dates times" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="4900samples" type="b2602c69:ProjectViewProjectNode" />
               <item name="4900samples" type="462c0819:PsiDirectoryNode" />
               <item name="8 object oriented dev" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="4900samples" type="b2602c69:ProjectViewProjectNode" />
+              <item name="4900samples" type="462c0819:PsiDirectoryNode" />
+              <item name="8 object oriented dev" type="462c0819:PsiDirectoryNode" />
+              <item name="dice_roller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="4900samples" type="b2602c69:ProjectViewProjectNode" />
@@ -165,7 +202,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.product_viewer">
+  <component name="RunManager" selected="Python.dice_roller">
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -313,110 +350,110 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <configuration name="loan_interest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="dice_roller (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6 handling numbers" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="4900samples" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6 handling numbers/loan_interest.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="monthly_payment" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6 handling numbers" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="4900samples" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6 handling numbers/monthly_payment.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="number_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6 handling numbers" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="4900samples" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6 handling numbers/number_file.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
-    <configuration name="product_viewer" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Dropbox/4900 Classes/4900 Fall 2017/Week 13/object oriented examples/product_viewer" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Dropbox/4900 Classes/4900 Fall 2017/Week 13/object oriented examples/dice_roller_encap1" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="4900samples" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Dropbox/4900 Classes/4900 Fall 2017/Week 13/object oriented examples/product_viewer/product_viewer.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Dropbox/4900 Classes/4900 Fall 2017/Week 13/object oriented examples/dice_roller_encap1/dice_roller.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="sales_report" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="dice_roller" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6 handling numbers" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Dropbox/4900 Classes/4900 Fall 2017/Week 13/object oriented examples/dice_roller" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="4900samples" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Dropbox/4900 Classes/4900 Fall 2017/Week 13/object oriented examples/dice_roller/dice_roller.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="future_value" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1 initial samples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="4900samples" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6 handling numbers/sales_report.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1 initial samples/future_value.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="p14-1_rectangles" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Dropbox/4900 Classes/4900 Fall 2017/Week 13/object oriented examples/zteacher" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="4900samples" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Dropbox/4900 Classes/4900 Fall 2017/Week 13/object oriented examples/zteacher/p14-1_rectangles.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="p14-3_customers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Dropbox/4900 Classes/4900 Fall 2017/Week 13/object oriented examples/zteacher" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="4900samples" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Dropbox/4900 Classes/4900 Fall 2017/Week 13/object oriented examples/zteacher/p14-3_customers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.loan_interest" />
-      <item index="1" class="java.lang.String" itemvalue="Python.monthly_payment" />
-      <item index="2" class="java.lang.String" itemvalue="Python.number_file" />
-      <item index="3" class="java.lang.String" itemvalue="Python.sales_report" />
-      <item index="4" class="java.lang.String" itemvalue="Python.product_viewer" />
+      <item index="0" class="java.lang.String" itemvalue="Python.future_value" />
+      <item index="1" class="java.lang.String" itemvalue="Python.dice_roller" />
+      <item index="2" class="java.lang.String" itemvalue="Python.dice_roller (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.p14-1_rectangles" />
+      <item index="4" class="java.lang.String" itemvalue="Python.p14-3_customers" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.product_viewer" />
-        <item index="1" class="java.lang.String" itemvalue="Python.sales_report" />
-        <item index="2" class="java.lang.String" itemvalue="Python.number_file" />
-        <item index="3" class="java.lang.String" itemvalue="Python.monthly_payment" />
-        <item index="4" class="java.lang.String" itemvalue="Python.loan_interest" />
+        <item index="0" class="java.lang.String" itemvalue="Python.dice_roller" />
+        <item index="1" class="java.lang.String" itemvalue="Python.p14-3_customers" />
+        <item index="2" class="java.lang.String" itemvalue="Python.p14-1_rectangles" />
+        <item index="3" class="java.lang.String" itemvalue="Python.dice_roller (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.future_value" />
       </list>
     </recent_temporary>
   </component>
@@ -434,7 +471,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="345" y="45" width="1098" height="687" extended-state="0" />
+    <frame x="189" y="0" width="1098" height="687" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20520231" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -469,91 +506,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/8 object oriented dev/product_viewer/product_viewer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 handling numbers/fuel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 handling numbers/invoice_decimal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 handling numbers/loan_interest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 handling numbers/number_file.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 handling numbers/sales_report.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 handling numbers/fuel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 handling numbers/loan_interest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 handling numbers/fuel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6 handling numbers/loan_interest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3 dictionaries/book_catalog.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1445">
-          <caret line="85" column="0" lean-forward="false" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/6 handling numbers/invoice.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -791,8 +743,108 @@
     <entry file="file://$PROJECT_DIR$/8 object oriented dev/product_viewer/objects.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="52" lean-forward="true" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+          <caret line="13" column="52" lean-forward="false" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8 object oriented dev/dice_roller/dice_roller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8 object oriented dev/dice_roller/dice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dropbox/4900 Classes/4900 Fall 2017/Week 13/object oriented examples/dice_roller_encap1/dice_roller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dropbox/4900 Classes/4900 Fall 2017/Week 13/object oriented examples/dice_roller_encap1/dice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1 initial samples/future_value.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dropbox/4900 Classes/4900 Fall 2017/Week 13/object oriented examples/zteacher/p14-3_customers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dropbox/4900 Classes/4900 Fall 2017/Week 13/object oriented examples/zteacher/p14-1_rectangles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-664">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dropbox/4900 Classes/4900 Fall 2017/Week 13/object oriented examples/zteacher/p14-2_cards.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dropbox/4900 Classes/4900 Fall 2017/Week 13/object oriented examples/dice_roller/dice_roller.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Dropbox/4900 Classes/4900 Fall 2017/Week 13/object oriented examples/dice_roller/dice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/python/efsblog/portfolio/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/python/efsblog/portfolio/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="168" column="0" lean-forward="true" selection-start-line="168" selection-start-column="0" selection-end-line="168" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
