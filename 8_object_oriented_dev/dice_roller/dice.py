@@ -18,3 +18,4 @@ class Dice:
     def rollAll(self):
         for die in self.list:
             die.roll()
+
