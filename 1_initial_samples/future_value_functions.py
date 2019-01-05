@@ -2,6 +2,7 @@
         
 def calculate_future_value(monthly_investment, yearly_interest, years):
     # convert yearly values to monthly values
+    print ("Entering calculate futurwe value()")
     monthly_interest_rate = yearly_interest / 12 / 100
     months = years * 12
 
@@ -11,7 +12,7 @@ def calculate_future_value(monthly_investment, yearly_interest, years):
         future_value += monthly_investment
         monthly_interest = future_value * monthly_interest_rate
         future_value += monthly_interest
-
+        print("i =", i, "future value =", future_value)
     return future_value
 
 def main():
